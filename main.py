@@ -12,7 +12,7 @@ from aiogram.exceptions import TelegramAPIError
 logging.basicConfig(level=logging.INFO)
 
 # Токен бота
-API_TOKEN = '7535068571:AAE6BrjSBLcgWAtyXhy82BgjK954oc6E_qQ'
+API_TOKEN = '8151740706:AAEENzJm45ussvfgt0pAv7BUHbrxV-HLX_E'
 # ID разрешенного пользователя
 ALLOWED_USER_ID = 1042568370  # Замените на реальный ID пользователя
 
